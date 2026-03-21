@@ -11,7 +11,3 @@ Repositório dedicado à implementação e estudo de estruturas de dados utiliza
 - [x] **Pilhas (Stack):** Lógica LIFO (*Last In, First Out*).
 - [x] **Deque:** Mais flexível, permite inserção e remoção em ambas as extremidades; pode simular Filas ou Pilhas.
 - [ ] **Listas Encadeadas:** Manipulação de referências entre objetos.
-
-### 2. Algoritmos e Complexidade
-- [ ] Análise de tempo de execução ($O(1)$, $O(n)$, $O(\log n)$).
-- [ ] Algoritmos de Ordenação (Selection, Insertion, QuickSort).
