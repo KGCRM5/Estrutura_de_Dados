@@ -2,12 +2,7 @@ package _AFilaCircularGenerica;
 
 import java.util.Scanner;
 
-/*
-Teste a Fila circular dinâmica e sequencial com classe
-Usa a fila para calcular o produto de dois números
-criação: 28/02/2023.
-prof. Dr. Ivan Carlos Alcântara de Oliveira
-*/
+
 public class _AFilaCircularGenerica {
 
 	public static void main(String[] args) {

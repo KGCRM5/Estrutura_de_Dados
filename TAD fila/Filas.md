@@ -1,5 +1,5 @@
 # Filas - Descrição 📑
-A fila é um Tipo Abstrato de Dado do estilo FIFO (First-in/First out), o que significa que o primeiro elemento a entrar será exatamente o primeiro a sair, indicando uma ordem no tratamento dos dados. 
+A fila é um Tipo Abstrato de Dado do estilo **FIFO** (First-in/First out), o que significa que o primeiro elemento a entrar será exatamente o primeiro a sair, indicando uma ordem no tratamento dos dados. 
   
 Trata-sede um estilo especial de lista linear, onde as remoções são feitas pelo início da fila enquanto, as inserções no fim da fila. O que significa também que sua complexidade é de O(1), 
 uma vez que o elemento manipulado sempre será o primeiro da lista.
